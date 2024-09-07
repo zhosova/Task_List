@@ -43,3 +43,9 @@ while True:
 #Edit a task: Allow the user to modify existing tasks.
 #Priorities: Assign priorities (e.g., low, medium, high) to tasks.
 #1Due dates: Add due dates to tasks using Python’s datetime module.
+#Refining the features: adding task deadlines, priorities, or categories.
+#Enhancing the user interface: making the app more interactive, or adding a simple text-based UI.
+#Adding data persistence: saving tasks to a file or a database so that they persist between runs.
+#Debugging: fixing any issues in your code.
+#More unit testing: covering additional edge cases and improving test coverage.
+#Error Handling: Handle invalid inputs gracefully so that the program doesn’t crash (e.g., when a user enters a wrong option).
